@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://databaseandleads.github.io/india-student-database/sitemap.xml
